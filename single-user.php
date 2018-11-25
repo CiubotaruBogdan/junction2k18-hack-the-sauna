@@ -45,10 +45,10 @@
       <div class="div-block-13">
         <div class="form-block-2 w-form">
           <form id="email-form" name="email-form" data-name="Email Form" class="form-4"><label for="name" class="field-label-2">Age</label><input type="text" id="name" name="name" data-name="Name" maxlength="256" class="text-field-2 w-input"><label for="name-2" class="field-label-2">Any known disease</label>
-            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox" name="checkbox" data-name="Checkbox" class="checkbox w-checkbox-input"><label for="checkbox" class="checkbox-label w-form-label">Disease no 1</label></div>
-            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-4" name="checkbox-4" data-name="Checkbox 4" class="checkbox w-checkbox-input"><label for="checkbox-4" class="checkbox-label w-form-label">Disease no 2</label></div>
-            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-3" name="checkbox-3" data-name="Checkbox 3" class="checkbox w-checkbox-input"><label for="checkbox-3" class="checkbox-label w-form-label">Disease no 3</label></div>
-            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-2" name="checkbox-2" data-name="Checkbox 2" class="checkbox w-checkbox-input"><label for="checkbox-2" class="checkbox-label w-form-label">Disease no 4</label></div><a href="#" class="button-5 w-button">Click here to take a picture</a><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button-2 w-button"></form>
+            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox" name="checkbox" data-name="Checkbox" class="checkbox w-checkbox-input"><label for="checkbox" class="checkbox-label w-form-label">Asthma</label></div>
+            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-4" name="checkbox-4" data-name="Checkbox 4" class="checkbox w-checkbox-input"><label for="checkbox-4" class="checkbox-label w-form-label">Rhinitis</label></div>
+            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-3" name="checkbox-3" data-name="Checkbox 3" class="checkbox w-checkbox-input"><label for="checkbox-3" class="checkbox-label w-form-label">General respiratory difficulties</label></div>
+            <div class="checkbox-field w-checkbox"><input type="checkbox" id="checkbox-2" name="checkbox-2" data-name="Checkbox 2" class="checkbox w-checkbox-input"><label for="checkbox-2" class="checkbox-label w-form-label">Seasonal allergies</label></div><a href="#" class="button-5 w-button">Click here to take a picture</a><a href="dashboard.php"><input type="button" value="Submit" data-wait="Please wait..." class="submit-button-2 w-button"></a></form>
           <div class="w-form-done">
             <div>Thank you! Your submission has been received!</div>
           </div>
@@ -63,7 +63,7 @@
       <div class="div-block-10"><a href="#" class="button-2 w-button">Tap here for face recognition</a></div>
       <h1 class="heading-6">or</h1>
       <div class="form-block-3 w-form">
-        <form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="form-2"><label for="name-3" class="field-label-2">Enter your unique ID</label><input type="text" id="name-2" name="name-2" data-name="Name 2" maxlength="256" class="text-field-2 w-input"><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button-2 w-button"></form>
+        <form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="form-2"><label for="name-3" class="field-label-2">Enter your unique ID</label><input type="text" id="name-2" name="name-2" data-name="Name 2" maxlength="256" class="text-field-2 w-input"><a href="dashboard.php"><input type="button" value="Submit" data-wait="Please wait..." class="submit-button-2 w-button"></a></form>
         <div class="w-form-done">
           <div>Thank you! Your submission has been received!</div>
         </div>
