@@ -36,7 +36,6 @@ if (isset($_GET['full'])) {
   <title>Dashboard</title>
   <meta content="Dashboard" property="og:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Webflow" name="generator">
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
   <link href="css/style.css" rel="stylesheet" type="text/css">
