@@ -60,9 +60,9 @@ if (isset($_GET['full'])) {
     <div class="div-block-12">
       <div class="div-block-16">
         <h1 class="heading-8">Your information</h1><img src="images/boy.png" alt="" class="image-4"></div>
-      <p class="paragraph">Age: <strong>age_number<br></strong>Known diseases: <strong>diseases<br></strong></p>
+      <p class="paragraph">Age: <strong>44<br></strong>Known diseases: <strong>General respiratory difficulties<br></strong></p>
       <h1 class="heading-8"><em class="italic-text">Our recommended sauna experience</em></h1>
-      <p class="paragraph">Temperature: <strong>75 C<br></strong>Humidity: <strong>75 mbar<br></strong>CO2 concentration: <strong>18%<br></strong>Oxygen concentration: <strong>23%</strong></p>
+      <p class="paragraph">Temperature: <strong>70-100 C<br></strong>Humidity: <strong>above g/m³<br></strong>CO2 concentration: <strong>above 400ppm<br></strong>Oxygen concentration: <strong>above 20%</strong></p>
     </div>
     <div class="div-block-15">
       <h1 class="heading-10">Control sauna environment</h1>
